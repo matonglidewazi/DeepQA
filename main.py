@@ -20,7 +20,6 @@ Main script. See README.md for more information
 
 Use python 3
 """
-
 from chatbot import chatbot
 
 
